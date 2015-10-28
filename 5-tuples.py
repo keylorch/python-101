@@ -1,7 +1,7 @@
 # Tuples
 # Basic information and operations on Tuples in python
 
-# Dictionaries are INmutable
+# Tuples are INmutable
 
 myTuple = (1,2,3,4)
 print("myTuple: ", myTuple)
